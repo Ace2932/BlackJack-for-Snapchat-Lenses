@@ -1,0 +1,66 @@
+{
+    "1679763452193176:562154": {
+        "IFileManager": {
+            "path": "Files/File_1679763452193176_562154.jpg"
+        }
+    },
+    "1679763452195160:562155": {
+        "IResourceController": {
+            "name": "Label_template",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1679763452195663:562156",
+            "fileId": "1679763452193176:562154",
+            "originalId": "1679763452196585:562161",
+            "publicId": "1679763455149523:563780",
+            "expected_hash": "8fd5d7f1342bbf52abcc81c3751a5fa6",
+            "additional": {
+                "originHash": "8fd5d7f1342bbf52abcc81c3751a5fa6"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1679763452195663:562156",
+            "name": "Files/File_1679763452193176_562154.jpg",
+            "flags": 1
+        }
+    },
+    "1679763452195663:562156": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "1440000",
+                "compressedSize": "47891",
+                "extension": "jpg",
+                "originalRAM": "1440000",
+                "originalSize": "47891",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1679763452208574:562167"
+        }
+    },
+    "1679763452196585:562161": {
+        "IFileManager": {
+            "path": "Files/File_1679763452196585_562161.jpg"
+        }
+    },
+    "1679763452208574:562167": {
+        "IFileManager": {
+            "path": "Files/File_1679763452208574_562167.jpg"
+        }
+    },
+    "1679763455149523:563780": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/uploads_files_983690_PokerChips/Textures/Label_template.jpg",
+                "hash": "8fd5d7f1342bbf52abcc81c3751a5fa6"
+            }
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "1680637412131713:3844610": {
+        "IFileManager": {
+            "path": "Files/File_1680637412131713_3844610"
+        }
+    },
+    "1680637412132878:3844611": {
+        "IResourceController": {
+            "name": "Popup Fill",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 1,
+            "hidden": true,
+            "uid": "1680637412132882:3844612",
+            "fileId": "1680637412131713:3844610",
+            "originalId": "1680637412167591:3844616",
+            "expected_hash": "3e46751a3a97e4ff7eb8657861becaf8"
+        },
+        "IResourceManager": {
+            "uid": "1680637412132882:3844612",
+            "name": "Files/File_1680637412131713_3844610",
+            "flags": 1
+        }
+    },
+    "1680637412167591:3844616": {
+        "IFileManager": {
+            "path": "Files/File_1680637412167591_3844616.lsmat"
+        }
+    }
+}

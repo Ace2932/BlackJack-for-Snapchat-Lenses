@@ -1,0 +1,79 @@
+{
+    "1678560288710053:37679": {
+        "IFileManager": {
+            "path": "Files/File_1678560288710053_37679.pvr"
+        }
+    },
+    "1678560288710625:37680": {
+        "IResourceController": {
+            "name": "hearts_10",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1678560288710738:37681",
+            "fileId": "1678560288710053:37679",
+            "originalId": "1678560288710899:37686",
+            "publicId": "1678560304247351:60217",
+            "expected_hash": "8de8e9229510c79258855afb079e9644",
+            "additional": {
+                "originHash": "91ffd1bb041b66f48ea3e7fe81ef562d"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1678560288710738:37681",
+            "name": "Files/File_1678560288710053_37679.jpg",
+            "flags": 1
+        }
+    },
+    "1678560288710738:37681": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "1025",
+                        "uncompressed_hash": "91ffd1bb041b66f48ea3e7fe81ef562d"
+                    },
+                    "v": "1678560954845493:828790"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "72320",
+                "compressedSize": "48627",
+                "extension": "jpg",
+                "originalRAM": "576000",
+                "originalSize": "91206",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "1",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1678560944609065:720794"
+        }
+    },
+    "1678560288710899:37686": {
+        "IFileManager": {
+            "path": "Files/File_1678560288710899_37686.jpg"
+        }
+    },
+    "1678560304247351:60217": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/hearts_10.jpg",
+                "hash": "91ffd1bb041b66f48ea3e7fe81ef562d"
+            }
+        }
+    },
+    "1678560944609065:720794": {
+        "IFileManager": {
+            "path": "Files/File_1678560944609065_720794.jpg"
+        }
+    },
+    "1678560954845493:828790": {
+        "IFileManager": {
+            "path": "Files/File_1678560954845493_828790.pvr"
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "1680637412309455:3844670": {
+        "IFileManager": {
+            "path": "Files/File_1680637412309455_3844670"
+        }
+    },
+    "1680637412310528:3844671": {
+        "IResourceController": {
+            "name": "Toggle Hangle",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 1,
+            "hidden": true,
+            "uid": "1680637412310532:3844672",
+            "fileId": "1680637412309455:3844670",
+            "originalId": "1680637412344342:3844676",
+            "expected_hash": "ec6299f52869467d8e2902fb7d0f51fe"
+        },
+        "IResourceManager": {
+            "uid": "1680637412310532:3844672",
+            "name": "Files/File_1680637412309455_3844670",
+            "flags": 1
+        }
+    },
+    "1680637412344342:3844676": {
+        "IFileManager": {
+            "path": "Files/File_1680637412344342_3844676.lsmat"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "1680455222488344:133643": {
+        "IResourceController": {
+            "name": "Color Picker",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1680455222488608:133644",
+            "resources": [
+                "1680455222476407:133623",
+                "1680455222608766:133662"
+            ]
+        }
+    },
+    "1680455222488608:133644": {
+        "IResourceController": {
+            "public": {
+                "path": "UI/Resources/Textures/Color Picker"
+            }
+        }
+    }
+}

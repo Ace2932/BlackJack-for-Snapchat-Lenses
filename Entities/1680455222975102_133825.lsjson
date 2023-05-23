@@ -1,0 +1,33 @@
+{
+    "1680455222973476:133814": {
+        "IFileManager": {
+            "path": "Files/File_1680455222973476_133814.js"
+        }
+    },
+    "1680455222975102:133825": {
+        "IResourceController": {
+            "name": "UIPanel",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1680455222975114:133826",
+            "fileId": "1680455222973476:133814",
+            "publicId": "1680455222983386:133868",
+            "expected_hash": "dd0fbff3f3a3839661124f523c66116c"
+        },
+        "IResourceManager": {
+            "uid": "1680455222975114:133826",
+            "name": "Files/File_1680455222973476_133814.js",
+            "flags": 1
+        }
+    },
+    "1680455222983386:133868": {
+        "IResourceController": {
+            "public": {
+                "path": "UI/Resources/Scripts/UIPanel.js",
+                "hash": "dd0fbff3f3a3839661124f523c66116c"
+            }
+        }
+    }
+}

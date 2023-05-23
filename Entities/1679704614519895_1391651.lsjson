@@ -1,0 +1,79 @@
+{
+    "1679704614516874:1391650": {
+        "IFileManager": {
+            "path": "Files/File_1679704614516874_1391650.pvr"
+        }
+    },
+    "1679704614519895:1391651": {
+        "IResourceController": {
+            "name": "SaintPatricksDay_hat",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1679704614520209:1391652",
+            "fileId": "1679704614516874:1391650",
+            "originalId": "1679704614520815:1391657",
+            "publicId": "1679704614552288:1391664",
+            "expected_hash": "2c7d7c5b1c6bca0fe2a8abc401971e0e",
+            "additional": {
+                "originHash": "52974d6803a443662ee877c767f6a1cb"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1679704614520209:1391652",
+            "name": "Files/File_1679704614516874_1391650.jpg",
+            "flags": 1
+        }
+    },
+    "1679704614520209:1391652": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "52974d6803a443662ee877c767f6a1cb"
+                    },
+                    "v": "1679704623569704:1418165"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "80000",
+                "compressedSize": "31848",
+                "extension": "png",
+                "originalRAM": "640000",
+                "originalSize": "44679",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1679704614537796:1391663"
+        }
+    },
+    "1679704614520815:1391657": {
+        "IFileManager": {
+            "path": "Files/File_1679704614520815_1391657.png"
+        }
+    },
+    "1679704614537796:1391663": {
+        "IFileManager": {
+            "path": "Files/File_1679704614537796_1391663.png"
+        }
+    },
+    "1679704614552288:1391664": {
+        "IResourceController": {
+            "public": {
+                "path": "Saint Patricks Day Pack/SaintPatricksDay_hat.png",
+                "hash": "52974d6803a443662ee877c767f6a1cb"
+            }
+        }
+    },
+    "1679704623569704:1418165": {
+        "IFileManager": {
+            "path": "Files/File_1679704623569704_1418165.pvr"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "1679703488703077:837415": {
+        "IResourceController": {
+            "name": "Color Palette Resources",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1680455702271764:348776",
+            "resources": [
+                "1679703488889532:837439"
+            ]
+        }
+    },
+    "1680455702271764:348776": {
+        "IResourceController": {
+            "public": {
+                "path": "Color Palette Resources"
+            }
+        }
+    }
+}

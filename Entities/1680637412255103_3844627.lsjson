@@ -1,0 +1,30 @@
+{
+    "1680637412255103:3844627": {
+        "IResourceController": {
+            "name": "Color Picker Popup 2",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": true,
+            "uid": "1680637412255075:3844624",
+            "fileId": "1680637412289016:3844631",
+            "originalId": "1680637415643392:3850743",
+            "expected_hash": "47dd80916b2cf5ab6cff9695753c0fcc"
+        },
+        "IResourceManager": {
+            "uid": "1680637412255075:3844624",
+            "name": "sceneObject_0",
+            "flags": 0
+        }
+    },
+    "1680637412289016:3844631": {
+        "IFileManager": {
+            "path": "Files/File_1680637412289016_3844631.oprfb"
+        }
+    },
+    "1680637415643392:3850743": {
+        "IFileManager": {
+            "path": "Files/File_1680637415643392_3850743.oprfb"
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1678560289859397:38387": {
+        "IFileManager": {
+            "path": "Files/File_1678560289859397_38387"
+        }
+    },
+    "1678560289859950:38388": {
+        "IResourceController": {
+            "name": "sp_A",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1678560289859953:38389",
+            "fileId": "1678560289859397:38387",
+            "originalId": "1678560289881929:38395",
+            "publicId": "1678560304317067:60261",
+            "expected_hash": "0570d30d4818912a01396f0e7c234c13"
+        },
+        "IResourceManager": {
+            "uid": "1678560289859953:38389",
+            "name": "Files/File_1678560289859397_38387",
+            "flags": 1
+        }
+    },
+    "1678560289881929:38395": {
+        "IFileManager": {
+            "path": "Files/File_1678560289881929_38395.lsmat"
+        }
+    },
+    "1678560304317067:60261": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Theory11cardModel/Materials/sp_A.lsmat",
+                "hash": "701ce830377d61c8c4f0ace3976b5c30"
+            }
+        }
+    }
+}

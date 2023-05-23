@@ -1,0 +1,33 @@
+{
+    "1680455222987565:133875": {
+        "IFileManager": {
+            "path": "Files/File_1680455222987565_133875.js"
+        }
+    },
+    "1680455222988951:133876": {
+        "IResourceController": {
+            "name": "UIButton",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1680455222988962:133877",
+            "fileId": "1680455222987565:133875",
+            "publicId": "1680455222997095:133887",
+            "expected_hash": "5b33eee8ee1df2fbb140a5cb2fa939fc"
+        },
+        "IResourceManager": {
+            "uid": "1680455222988962:133877",
+            "name": "Files/File_1680455222987565_133875.js",
+            "flags": 1
+        }
+    },
+    "1680455222997095:133887": {
+        "IResourceController": {
+            "public": {
+                "path": "UI/Resources/Scripts/UIButton.js",
+                "hash": "5b33eee8ee1df2fbb140a5cb2fa939fc"
+            }
+        }
+    }
+}

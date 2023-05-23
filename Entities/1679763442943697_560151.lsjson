@@ -1,0 +1,71 @@
+{
+    "1679763442943697:560151": {
+        "IResourceController": {
+            "name": "uploads_files_983690_PokerChips",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1679763454814825:563645",
+            "publicId": "1679763455143471:563778",
+            "expected_hash": "18c661856f5cf03d600d24847a40042b",
+            "resources": [
+                "1679763450598863:561426",
+                "1679763452126366:562143",
+                "1679763452306828:562176",
+                "1679763454721980:563378"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "generatePivots": "true",
+                    "importBlendShapeAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexAnimation": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false",
+                    "regenerateNormalsForSkinned": "true"
+                },
+                "materialMapping": [
+                    {
+                        "k": "color1",
+                        "v": "1679763454320629:562649"
+                    },
+                    {
+                        "k": "color2",
+                        "v": "1679763453966800:562558"
+                    },
+                    {
+                        "k": "color3",
+                        "v": "1679763453614719:562472"
+                    },
+                    {
+                        "k": "color4",
+                        "v": "1679763453250806:562386"
+                    },
+                    {
+                        "k": "label",
+                        "v": "1679763452311145:562179"
+                    },
+                    {
+                        "k": "white",
+                        "v": "1679763452849081:562290"
+                    }
+                ]
+            }
+        }
+    },
+    "1679763454814825:563645": {
+        "IFileManager": {
+            "path": "Files/File_1679763454814825_563645.fbx"
+        }
+    },
+    "1679763455143471:563778": {
+        "IResourceController": {
+            "public": {
+                "path": "uploads_files_983690_PokerChips.fbx",
+                "hash": "18c661856f5cf03d600d24847a40042b"
+            }
+        }
+    }
+}

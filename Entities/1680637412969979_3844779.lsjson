@@ -1,0 +1,30 @@
+{
+    "1680637412969979:3844779": {
+        "IResourceController": {
+            "name": "Color Picker Palette",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": true,
+            "uid": "1680637412969941:3844776",
+            "fileId": "1680637413004570:3844783",
+            "originalId": "1680637415748411:3850781",
+            "expected_hash": "e8d26ddb0f5fd04be2b43e3a9560b150"
+        },
+        "IResourceManager": {
+            "uid": "1680637412969941:3844776",
+            "name": "sceneObject_3",
+            "flags": 0
+        }
+    },
+    "1680637413004570:3844783": {
+        "IFileManager": {
+            "path": "Files/File_1680637413004570_3844783.oprfb"
+        }
+    },
+    "1680637415748411:3850781": {
+        "IFileManager": {
+            "path": "Files/File_1680637415748411_3850781.oprfb"
+        }
+    }
+}

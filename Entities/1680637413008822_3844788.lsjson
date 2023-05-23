@@ -1,0 +1,24 @@
+{
+    "1680637413007039:3844787": {
+        "IFileManager": {
+            "path": "Files/File_1680637413007039_3844787.js"
+        }
+    },
+    "1680637413008822:3844788": {
+        "IResourceController": {
+            "name": "DestructionHelper",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": true,
+            "uid": "1680637413008836:3844789",
+            "fileId": "1680637413007039:3844787",
+            "expected_hash": "3d3a71d44adc703084565efd54315295"
+        },
+        "IResourceManager": {
+            "uid": "1680637413008836:3844789",
+            "name": "Files/File_1680637413007039_3844787.js",
+            "flags": 1
+        }
+    }
+}

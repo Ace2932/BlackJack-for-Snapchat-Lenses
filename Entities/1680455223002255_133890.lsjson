@@ -1,0 +1,33 @@
+{
+    "1680455223000739:133889": {
+        "IFileManager": {
+            "path": "Files/File_1680455223000739_133889.js"
+        }
+    },
+    "1680455223002255:133890": {
+        "IResourceController": {
+            "name": "Interaction Script",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1680455223002268:133891",
+            "fileId": "1680455223000739:133889",
+            "publicId": "1680455223006757:133901",
+            "expected_hash": "5bfa5a61cf9ef5b25a9bccd8fe93b9b8"
+        },
+        "IResourceManager": {
+            "uid": "1680455223002268:133891",
+            "name": "Files/File_1680455223000739_133889.js",
+            "flags": 1
+        }
+    },
+    "1680455223006757:133901": {
+        "IResourceController": {
+            "public": {
+                "path": "Interaction Script.js",
+                "hash": "5bfa5a61cf9ef5b25a9bccd8fe93b9b8"
+            }
+        }
+    }
+}

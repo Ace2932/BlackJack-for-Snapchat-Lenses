@@ -1,0 +1,79 @@
+{
+    "1678560289280665:38180": {
+        "IFileManager": {
+            "path": "Files/File_1678560289280665_38180.pvr"
+        }
+    },
+    "1678560289281297:38181": {
+        "IResourceController": {
+            "name": "clubs_5",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1678560289281526:38182",
+            "fileId": "1678560289280665:38180",
+            "originalId": "1678560289281711:38187",
+            "publicId": "1678560304302837:60252",
+            "expected_hash": "2b8cb321bacf4a2e6ccc475d37deee01",
+            "additional": {
+                "originHash": "c3b525669fd0b567e69e6f9caeece234"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1678560289281526:38182",
+            "name": "Files/File_1678560289280665_38180.jpg",
+            "flags": 1
+        }
+    },
+    "1678560289281526:38182": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "1025",
+                        "uncompressed_hash": "c3b525669fd0b567e69e6f9caeece234"
+                    },
+                    "v": "1678560967964277:987155"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "72320",
+                "compressedSize": "47851",
+                "extension": "jpg",
+                "originalRAM": "576000",
+                "originalSize": "69116",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "1",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1678560944861539:720839"
+        }
+    },
+    "1678560289281711:38187": {
+        "IFileManager": {
+            "path": "Files/File_1678560289281711_38187.jpg"
+        }
+    },
+    "1678560304302837:60252": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/clubs_5.jpg",
+                "hash": "c3b525669fd0b567e69e6f9caeece234"
+            }
+        }
+    },
+    "1678560944861539:720839": {
+        "IFileManager": {
+            "path": "Files/File_1678560944861539_720839.jpg"
+        }
+    },
+    "1678560967964277:987155": {
+        "IFileManager": {
+            "path": "Files/File_1678560967964277_987155.pvr"
+        }
+    }
+}

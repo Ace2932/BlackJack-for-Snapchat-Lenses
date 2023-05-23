@@ -1,0 +1,30 @@
+{
+    "1680637412599042:3844710": {
+        "IResourceController": {
+            "name": "Color Picker Background",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": true,
+            "uid": "1680637412599016:3844707",
+            "fileId": "1680637412635136:3844714",
+            "originalId": "1680637415677832:3850754",
+            "expected_hash": "d40f2f0dd76c62467e19fa99b4a7f981"
+        },
+        "IResourceManager": {
+            "uid": "1680637412599016:3844707",
+            "name": "sceneObject_1",
+            "flags": 0
+        }
+    },
+    "1680637412635136:3844714": {
+        "IFileManager": {
+            "path": "Files/File_1680637412635136_3844714.oprfb"
+        }
+    },
+    "1680637415677832:3850754": {
+        "IFileManager": {
+            "path": "Files/File_1680637415677832_3850754.oprfb"
+        }
+    }
+}

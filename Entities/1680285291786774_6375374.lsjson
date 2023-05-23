@@ -1,0 +1,91 @@
+{
+    "1680285291783547:6375373": {
+        "IFileManager": {
+            "path": "Files/File_1680285291783547_6375373.pvr"
+        }
+    },
+    "1680285291786774:6375374": {
+        "IResourceController": {
+            "name": "BlackJack21",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1680285291788641:6375375",
+            "fileId": "1680285291783547:6375373",
+            "originalId": "1680285291790270:6375380",
+            "publicId": "1680285291814491:6375390",
+            "expected_hash": "3d09467cc6640f91e3219f05971d8d1a",
+            "additional": {
+                "originHash": "346ea2d930b96472a8eaf90ad3e808ef"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1680285291788641:6375375",
+            "name": "Files/File_1680285291783547_6375373.png",
+            "flags": 1
+        }
+    },
+    "1680285291788641:6375375": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2048",
+                        "uncompressed_hash": "346ea2d930b96472a8eaf90ad3e808ef"
+                    },
+                    "v": "1684860102943005:12992720"
+                },
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "346ea2d930b96472a8eaf90ad3e808ef"
+                    },
+                    "v": "1680285294841039:6383360"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "125000",
+                "compressedSize": "59783",
+                "extension": "png",
+                "originalRAM": "1000000",
+                "originalSize": "239134",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1680285291796519:6375389"
+        }
+    },
+    "1680285291790270:6375380": {
+        "IFileManager": {
+            "path": "Files/File_1680285291790270_6375380.png"
+        }
+    },
+    "1680285291796519:6375389": {
+        "IFileManager": {
+            "path": "Files/File_1680285291796519_6375389.png"
+        }
+    },
+    "1680285291814491:6375390": {
+        "IResourceController": {
+            "public": {
+                "path": "BlackJack21.png",
+                "hash": "346ea2d930b96472a8eaf90ad3e808ef"
+            }
+        }
+    },
+    "1680285294841039:6383360": {
+        "IFileManager": {
+            "path": "Files/File_1680285294841039_6383360.pvr"
+        }
+    },
+    "1684860102943005:12992720": {
+        "IFileManager": {
+            "path": "Files/File_1684860102943005_12992720.png"
+        }
+    }
+}

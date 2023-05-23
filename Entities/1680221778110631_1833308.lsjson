@@ -1,0 +1,79 @@
+{
+    "1680221778106852:1833305": {
+        "IFileManager": {
+            "path": "Files/File_1680221778106852_1833305.pvr"
+        }
+    },
+    "1680221778110631:1833308": {
+        "IResourceController": {
+            "name": "PowerStartButton",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1680221778111962:1833309",
+            "fileId": "1680221778106852:1833305",
+            "originalId": "1680221778112516:1833314",
+            "publicId": "1680221778123848:1833316",
+            "expected_hash": "cc5a5eaf570e4155dbf719b0089c00b8",
+            "additional": {
+                "originHash": "9202be9fee5286a67c97ba8237ca9d1e"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1680221778111962:1833309",
+            "name": "Files/File_1680221778106852_1833305.png",
+            "flags": 1
+        }
+    },
+    "1680221778111962:1833309": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "9202be9fee5286a67c97ba8237ca9d1e"
+                    },
+                    "v": "1680221778842591:1840576"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "55760",
+                "compressedSize": "15911",
+                "extension": "png",
+                "originalRAM": "446080",
+                "originalSize": "27337",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1680221778116174:1833315"
+        }
+    },
+    "1680221778112516:1833314": {
+        "IFileManager": {
+            "path": "Files/File_1680221778112516_1833314.png"
+        }
+    },
+    "1680221778116174:1833315": {
+        "IFileManager": {
+            "path": "Files/File_1680221778116174_1833315.png"
+        }
+    },
+    "1680221778123848:1833316": {
+        "IResourceController": {
+            "public": {
+                "path": "PowerStartButton.png",
+                "hash": "9202be9fee5286a67c97ba8237ca9d1e"
+            }
+        }
+    },
+    "1680221778842591:1840576": {
+        "IFileManager": {
+            "path": "Files/File_1680221778842591_1840576.pvr"
+        }
+    }
+}

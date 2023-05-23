@@ -1,0 +1,79 @@
+{
+    "1684805158448727:4876191": {
+        "IFileManager": {
+            "path": "Files/File_1684805158448727_4876191.pvr"
+        }
+    },
+    "1684805158453450:4876192": {
+        "IResourceController": {
+            "name": "CheckButon",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1684805158454654:4876193",
+            "fileId": "1684805158448727:4876191",
+            "originalId": "1684805158456229:4876198",
+            "publicId": "1684805158476176:4876208",
+            "expected_hash": "2ff8577dab0384c4ad70c58fe7e51083",
+            "additional": {
+                "originHash": "64d3b3fd1e86e5b7edaea4dd01239a29"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1684805158454654:4876193",
+            "name": "Files/File_1684805158448727_4876191.png",
+            "flags": 1
+        }
+    },
+    "1684805158454654:4876193": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "64d3b3fd1e86e5b7edaea4dd01239a29"
+                    },
+                    "v": "1684805158787822:4879426"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "125000",
+                "compressedSize": "9086",
+                "extension": "png",
+                "originalRAM": "1000000",
+                "originalSize": "27433",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1684805158463603:4876207"
+        }
+    },
+    "1684805158456229:4876198": {
+        "IFileManager": {
+            "path": "Files/File_1684805158456229_4876198.png"
+        }
+    },
+    "1684805158463603:4876207": {
+        "IFileManager": {
+            "path": "Files/File_1684805158463603_4876207.png"
+        }
+    },
+    "1684805158476176:4876208": {
+        "IResourceController": {
+            "public": {
+                "path": "CheckButon.png",
+                "hash": "64d3b3fd1e86e5b7edaea4dd01239a29"
+            }
+        }
+    },
+    "1684805158787822:4879426": {
+        "IFileManager": {
+            "path": "Files/File_1684805158787822_4879426.pvr"
+        }
+    }
+}

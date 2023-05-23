@@ -1,0 +1,30 @@
+{
+    "1680637412687283:3844749": {
+        "IFileManager": {
+            "path": "Files/File_1680637412687283_3844749"
+        }
+    },
+    "1680637412689015:3844750": {
+        "IResourceController": {
+            "name": "Slider Handle",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 1,
+            "hidden": true,
+            "uid": "1680637412689021:3844751",
+            "fileId": "1680637412687283:3844749",
+            "originalId": "1680637412745224:3844755",
+            "expected_hash": "ec6299f52869467d8e2902fb7d0f51fe"
+        },
+        "IResourceManager": {
+            "uid": "1680637412689021:3844751",
+            "name": "Files/File_1680637412687283_3844749",
+            "flags": 1
+        }
+    },
+    "1680637412745224:3844755": {
+        "IFileManager": {
+            "path": "Files/File_1680637412745224_3844755.lsmat"
+        }
+    }
+}

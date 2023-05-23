@@ -1,0 +1,79 @@
+{
+    "1678560288971062:37905": {
+        "IFileManager": {
+            "path": "Files/File_1678560288971062_37905.pvr"
+        }
+    },
+    "1678560288971550:37906": {
+        "IResourceController": {
+            "name": "diamonds_9",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1678560288971686:37907",
+            "fileId": "1678560288971062:37905",
+            "originalId": "1678560288971824:37912",
+            "publicId": "1678560304272079:60233",
+            "expected_hash": "be21872d9df4e2577fc44ab0c4fc5f7f",
+            "additional": {
+                "originHash": "045b11575ec0dea2b575367de94d6e74"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1678560288971686:37907",
+            "name": "Files/File_1678560288971062_37905.jpg",
+            "flags": 1
+        }
+    },
+    "1678560288971686:37907": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "1025",
+                        "uncompressed_hash": "045b11575ec0dea2b575367de94d6e74"
+                    },
+                    "v": "1678560956542414:846799"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "72320",
+                "compressedSize": "44473",
+                "extension": "jpg",
+                "originalRAM": "576000",
+                "originalSize": "81692",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "1",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1678560944641012:720800"
+        }
+    },
+    "1678560288971824:37912": {
+        "IFileManager": {
+            "path": "Files/File_1678560288971824_37912.jpg"
+        }
+    },
+    "1678560304272079:60233": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/diamonds_9.jpg",
+                "hash": "045b11575ec0dea2b575367de94d6e74"
+            }
+        }
+    },
+    "1678560944641012:720800": {
+        "IFileManager": {
+            "path": "Files/File_1678560944641012_720800.jpg"
+        }
+    },
+    "1678560956542414:846799": {
+        "IFileManager": {
+            "path": "Files/File_1678560956542414_846799.pvr"
+        }
+    }
+}

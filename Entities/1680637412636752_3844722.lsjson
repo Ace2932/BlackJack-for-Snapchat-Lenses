@@ -1,0 +1,30 @@
+{
+    "1680637412636752:3844722": {
+        "IResourceController": {
+            "name": "Color PIcker Cursor",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": true,
+            "uid": "1680637412636736:3844719",
+            "fileId": "1680637412674295:3844726",
+            "originalId": "1680637415712954:3850770",
+            "expected_hash": "b813673eafa1a1096393516f0dbed175"
+        },
+        "IResourceManager": {
+            "uid": "1680637412636736:3844719",
+            "name": "sceneObject_2",
+            "flags": 0
+        }
+    },
+    "1680637412674295:3844726": {
+        "IFileManager": {
+            "path": "Files/File_1680637412674295_3844726.oprfb"
+        }
+    },
+    "1680637415712954:3850770": {
+        "IFileManager": {
+            "path": "Files/File_1680637415712954_3850770.oprfb"
+        }
+    }
+}

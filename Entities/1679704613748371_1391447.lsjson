@@ -1,0 +1,39 @@
+{
+    "1679704613748371:1391447": {
+        "IResourceController": {
+            "name": "Saint_Patrick-s_Day_Pack_PLACE_IN_OBJECTS_PANEL",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1679704613748329:1391444",
+            "fileId": "1679704613799108:1391461",
+            "originalId": "1679704739032100:1527494",
+            "publicId": "1679704614571352:1391749",
+            "expected_hash": "0aafd685f6208ed5d779875222ca84ed"
+        },
+        "IResourceManager": {
+            "uid": "1679704613748329:1391444",
+            "name": "sceneObject_9",
+            "flags": 0
+        }
+    },
+    "1679704613799108:1391461": {
+        "IFileManager": {
+            "path": "Files/File_1679704613799108_1391461.oprfb"
+        }
+    },
+    "1679704614571352:1391749": {
+        "IResourceController": {
+            "public": {
+                "path": "Saint_Patrick-s_Day_Pack_PLACE_IN_OBJECTS_PANEL.oprfb",
+                "hash": "46a2335325532cf87f5d9dacdca6cd25"
+            }
+        }
+    },
+    "1679704739032100:1527494": {
+        "IFileManager": {
+            "path": "Files/File_1679704739032100_1527494.oprfb"
+        }
+    }
+}

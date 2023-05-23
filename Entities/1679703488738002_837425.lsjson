@@ -1,0 +1,39 @@
+{
+    "1679703488731721:837424": {
+        "IFileManager": {
+            "path": "Files/File_1679703488731721_837424"
+        }
+    },
+    "1679703488738002:837425": {
+        "IResourceController": {
+            "name": "Sampler 1",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1679703488738010:837426",
+            "fileId": "1679703488731721:837424",
+            "originalId": "1679703488780254:837432",
+            "publicId": "1680455702273219:348778",
+            "expected_hash": "5f1fa1bceba543357a3d2aa311217cd5"
+        },
+        "IResourceManager": {
+            "uid": "1679703488738010:837426",
+            "name": "Files/File_1679703488731721_837424",
+            "flags": 1
+        }
+    },
+    "1679703488780254:837432": {
+        "IFileManager": {
+            "path": "Files/File_1679703488780254_837432.lsmat"
+        }
+    },
+    "1680455702273219:348778": {
+        "IResourceController": {
+            "public": {
+                "path": "Color Palette Resources/Materials/Sampler 1.lsmat",
+                "hash": "c5e71f366f84440745c0313f35f253de"
+            }
+        }
+    }
+}

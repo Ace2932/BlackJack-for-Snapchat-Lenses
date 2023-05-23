@@ -1,0 +1,79 @@
+{
+    "1679007836414688:150938": {
+        "IFileManager": {
+            "path": "Files/File_1679007836414688_150938.jpg"
+        }
+    },
+    "1679007836416264:150939": {
+        "IResourceController": {
+            "name": "back_black 2",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1679007836417268:150940",
+            "fileId": "1679007836414688:150938",
+            "originalId": "1679007836418031:150945",
+            "publicId": "1679007836457341:150952",
+            "expected_hash": "e3e8610d6f1f123d152eb097cdd4ad50",
+            "additional": {
+                "originHash": "ca0ee4f4bca745ea791c8ac3690547e7"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1679007836417268:150940",
+            "name": "Files/File_1679007836414688_150938.jpg",
+            "flags": 1
+        }
+    },
+    "1679007836417268:150940": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "3072",
+                        "uncompressed_hash": "ca0ee4f4bca745ea791c8ac3690547e7"
+                    },
+                    "v": "1679007863224863:180000"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "3078400",
+                "compressedSize": "398482",
+                "extension": "jpg",
+                "originalRAM": "3078400",
+                "originalSize": "574280",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "3",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1679007836432178:150951"
+        }
+    },
+    "1679007836418031:150945": {
+        "IFileManager": {
+            "path": "Files/File_1679007836418031_150945.jpg"
+        }
+    },
+    "1679007836432178:150951": {
+        "IFileManager": {
+            "path": "Files/File_1679007836432178_150951.jpg"
+        }
+    },
+    "1679007836457341:150952": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/back_black 2.jpg",
+                "hash": "ca0ee4f4bca745ea791c8ac3690547e7"
+            }
+        }
+    },
+    "1679007863224863:180000": {
+        "IFileManager": {
+            "path": "Files/File_1679007863224863_180000.jpg"
+        }
+    }
+}

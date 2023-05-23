@@ -1,0 +1,106 @@
+{
+    "1678560279868883:32061": {
+        "IFileManager": {
+            "path": "Files/File_1678560279868883_32061.mesh"
+        }
+    },
+    "1678560279869361:32062": {
+        "IResourceController": {
+            "name": "Diamonds_Q_3 2",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1678560279888395:32066",
+            "fileId": "1678560279868883:32061",
+            "expected_hash": "e547134e9e034286309fb587d98695f2",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "tangent"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1678560279888395:32066",
+            "name": "Files/File_1678560279868883_32061.mesh",
+            "flags": 1
+        }
+    },
+    "1678560279888395:32066": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "1596",
+                "compressedSize": "1189",
+                "extension": "mesh",
+                "originalRAM": "1596",
+                "originalSize": "1189",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1678560303052822:58889"
+        }
+    },
+    "1678560303052822:58889": {
+        "IFileManager": {
+            "path": "Files/File_1678560303052822_58889.mesh"
+        }
+    }
+}

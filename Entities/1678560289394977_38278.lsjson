@@ -1,0 +1,24 @@
+{
+    "1678560289394977:38278": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1678560304314991:60258",
+            "resources": [
+                "1678560289395920:38280",
+                "1678560289650489:38340",
+                "1678560289859950:38388"
+            ]
+        }
+    },
+    "1678560304314991:60258": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Theory11cardModel/Materials"
+            }
+        }
+    }
+}

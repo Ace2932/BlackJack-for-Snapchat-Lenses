@@ -1,0 +1,42 @@
+{
+    "1684789309504727:263551": {
+        "IFileManager": {
+            "path": "Files/File_1684789309504727_263551.webp"
+        }
+    },
+    "1684789309527095:263552": {
+        "IResourceController": {
+            "name": "Hit button",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1684789309528006:263553",
+            "fileId": "1684789309504727:263551",
+            "originalId": "1684789309528558:263558",
+            "publicId": "1684789309559757:263567",
+            "expected_hash": "9cbc306975ad85369ea3179f46201fc9",
+            "additional": {
+                "originHash": "9cbc306975ad85369ea3179f46201fc9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1684789309528006:263553",
+            "name": "Files/File_1684789309504727_263551.webp",
+            "flags": 1
+        }
+    },
+    "1684789309528558:263558": {
+        "IFileManager": {
+            "path": "Files/File_1684789309528558_263558.webp"
+        }
+    },
+    "1684789309559757:263567": {
+        "IResourceController": {
+            "public": {
+                "path": "Hit button.webp",
+                "hash": "9cbc306975ad85369ea3179f46201fc9"
+            }
+        }
+    }
+}

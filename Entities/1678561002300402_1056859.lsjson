@@ -1,0 +1,33 @@
+{
+    "1678561002298390:1056858": {
+        "IFileManager": {
+            "path": "Files/File_1678561002298390_1056858.js"
+        }
+    },
+    "1678561002300402:1056859": {
+        "IResourceController": {
+            "name": "Card Controller",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1678561002300581:1056860",
+            "fileId": "1678561002298390:1056858",
+            "publicId": "1678561002303727:1056865",
+            "expected_hash": "034246753e730595be771c7e2a1b4e71"
+        },
+        "IResourceManager": {
+            "uid": "1678561002300581:1056860",
+            "name": "Files/File_1678561002298390_1056858.js",
+            "flags": 1
+        }
+    },
+    "1678561002303727:1056865": {
+        "IResourceController": {
+            "public": {
+                "path": "Card Controller.js",
+                "hash": "034246753e730595be771c7e2a1b4e71"
+            }
+        }
+    }
+}

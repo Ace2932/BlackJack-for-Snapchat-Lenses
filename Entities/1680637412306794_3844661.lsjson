@@ -1,0 +1,24 @@
+{
+    "1680637412305200:3844660": {
+        "IFileManager": {
+            "path": "Files/File_1680637412305200_3844660.js"
+        }
+    },
+    "1680637412306794:3844661": {
+        "IResourceController": {
+            "name": "UIPopup",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": true,
+            "uid": "1680637412306807:3844662",
+            "fileId": "1680637412305200:3844660",
+            "expected_hash": "171000d9cb566abb348ba8e23ba74b22"
+        },
+        "IResourceManager": {
+            "uid": "1680637412306807:3844662",
+            "name": "Files/File_1680637412305200_3844660.js",
+            "flags": 1
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "1680455222947003:133768": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1680455222947611:133769",
+            "resources": [
+                "1680455222805637:133754"
+            ]
+        }
+    },
+    "1680455222947611:133769": {
+        "IResourceController": {
+            "public": {
+                "path": "UI/Resources/Materials"
+            }
+        }
+    }
+}

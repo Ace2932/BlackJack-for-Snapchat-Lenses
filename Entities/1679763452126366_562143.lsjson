@@ -1,0 +1,22 @@
+{
+    "1679763452126366:562143": {
+        "IResourceController": {
+            "name": "Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1679763455148922:563779",
+            "resources": [
+                "1679763452195160:562155"
+            ]
+        }
+    },
+    "1679763455148922:563779": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/uploads_files_983690_PokerChips/Textures"
+            }
+        }
+    }
+}

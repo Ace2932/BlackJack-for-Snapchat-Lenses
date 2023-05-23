@@ -1,0 +1,22 @@
+{
+    "1679704614037858:1391567": {
+        "IResourceController": {
+            "name": "Saint Patricks Day Pack",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1679704614038391:1391568",
+            "resources": [
+                "1679704614519895:1391651"
+            ]
+        }
+    },
+    "1679704614038391:1391568": {
+        "IResourceController": {
+            "public": {
+                "path": "Saint Patricks Day Pack"
+            }
+        }
+    }
+}

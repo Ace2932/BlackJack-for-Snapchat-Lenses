@@ -1,0 +1,30 @@
+{
+    "1678560301491395:53249": {
+        "IResourceController": {
+            "name": "Theory11cardModel",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1678560301481411:46218",
+            "fileId": "1678560301676998:57984",
+            "originalId": "1678560848274674:691593",
+            "expected_hash": "50b5b450479ce2dab4097f2aa5252b3a"
+        },
+        "IResourceManager": {
+            "uid": "1678560301481411:46218",
+            "name": "Theory11cardModel",
+            "flags": 0
+        }
+    },
+    "1678560301676998:57984": {
+        "IFileManager": {
+            "path": "Files/File_1678560301676998_57984.oprfb"
+        }
+    },
+    "1678560848274674:691593": {
+        "IFileManager": {
+            "path": "Files/File_1678560848274674_691593.oprfb"
+        }
+    }
+}

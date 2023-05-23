@@ -1,0 +1,27 @@
+{
+    "1679763452306828:562176": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1679763455150195:563781",
+            "resources": [
+                "1679763452311117:562178",
+                "1679763452849075:562289",
+                "1679763453250793:562385",
+                "1679763453614712:562471",
+                "1679763453966795:562557",
+                "1679763454320625:562648"
+            ]
+        }
+    },
+    "1679763455150195:563781": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/uploads_files_983690_PokerChips/Materials"
+            }
+        }
+    }
+}

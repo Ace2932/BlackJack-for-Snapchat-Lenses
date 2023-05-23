@@ -1,0 +1,30 @@
+{
+    "1679763454721980:563378": {
+        "IResourceController": {
+            "name": "uploads_files_983690_PokerChips",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1679763454720995:563022",
+            "fileId": "1679763454762988:563639",
+            "originalId": "1679764381315730:992609",
+            "expected_hash": "bf31e09a920c504ccea886b8c7f48ebd"
+        },
+        "IResourceManager": {
+            "uid": "1679763454720995:563022",
+            "name": "uploads_files_983690_PokerChips",
+            "flags": 0
+        }
+    },
+    "1679763454762988:563639": {
+        "IFileManager": {
+            "path": "Files/File_1679763454762988_563639.oprfb"
+        }
+    },
+    "1679764381315730:992609": {
+        "IFileManager": {
+            "path": "Files/File_1679764381315730_992609.oprfb"
+        }
+    }
+}

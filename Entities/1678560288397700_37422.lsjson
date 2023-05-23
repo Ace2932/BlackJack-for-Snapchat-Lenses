@@ -1,0 +1,79 @@
+{
+    "1678560288396985:37421": {
+        "IFileManager": {
+            "path": "Files/File_1678560288396985_37421.pvr"
+        }
+    },
+    "1678560288397700:37422": {
+        "IResourceController": {
+            "name": "spades_K",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1678560288397870:37423",
+            "fileId": "1678560288396985:37421",
+            "originalId": "1678560288398112:37428",
+            "publicId": "1678560304223756:60129",
+            "expected_hash": "3499552626770e194f74a8a21a9e0672",
+            "additional": {
+                "originHash": "9cf62dc224a6286237559a24c8191a19"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1678560288397870:37423",
+            "name": "Files/File_1678560288396985_37421.jpg",
+            "flags": 1
+        }
+    },
+    "1678560288397870:37423": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "1025",
+                        "uncompressed_hash": "9cf62dc224a6286237559a24c8191a19"
+                    },
+                    "v": "1678560971761435:1035107"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "72320",
+                "compressedSize": "55490",
+                "extension": "jpg",
+                "originalRAM": "576000",
+                "originalSize": "122813",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "1",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1678560944949185:720853"
+        }
+    },
+    "1678560288398112:37428": {
+        "IFileManager": {
+            "path": "Files/File_1678560288398112_37428.jpg"
+        }
+    },
+    "1678560304223756:60129": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/spades_K.jpg",
+                "hash": "9cf62dc224a6286237559a24c8191a19"
+            }
+        }
+    },
+    "1678560944949185:720853": {
+        "IFileManager": {
+            "path": "Files/File_1678560944949185_720853.jpg"
+        }
+    },
+    "1678560971761435:1035107": {
+        "IFileManager": {
+            "path": "Files/File_1678560971761435_1035107.pvr"
+        }
+    }
+}

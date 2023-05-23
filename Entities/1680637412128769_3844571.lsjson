@@ -1,0 +1,24 @@
+{
+    "1680637412127319:3844570": {
+        "IFileManager": {
+            "path": "Files/File_1680637412127319_3844570.js"
+        }
+    },
+    "1680637412128769:3844571": {
+        "IResourceController": {
+            "name": "UI Color Picker",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": true,
+            "uid": "1680637412128814:3844572",
+            "fileId": "1680637412127319:3844570",
+            "expected_hash": "69af436830ba5641ef91214bcfed37f9"
+        },
+        "IResourceManager": {
+            "uid": "1680637412128814:3844572",
+            "name": "Files/File_1680637412127319_3844570.js",
+            "flags": 1
+        }
+    }
+}

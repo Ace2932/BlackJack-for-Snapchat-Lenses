@@ -1,0 +1,80 @@
+{
+    "1680455222475281:133622": {
+        "IFileManager": {
+            "path": "Files/File_1680455222475281_133622.pvr"
+        }
+    },
+    "1680455222476407:133623": {
+        "IResourceController": {
+            "name": "palette_background",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1680455222477122:133624",
+            "fileId": "1680455222475281:133622",
+            "originalId": "1680455222477531:133629",
+            "publicId": "1680455222494676:133646",
+            "expected_hash": "4d11d75ae2243c861010d652ed6f4458",
+            "additional": {
+                "originHash": "a7af41c3d3ea2cd8900794d4ebbbe9c2",
+                "subtype": "9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1680455222477122:133624",
+            "name": "Files/File_1680455222475281_133622.jpg",
+            "flags": 1
+        }
+    },
+    "1680455222477122:133624": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "a7af41c3d3ea2cd8900794d4ebbbe9c2"
+                    },
+                    "v": "1680455223930488:135649"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "2920",
+                "compressedSize": "383",
+                "extension": "png",
+                "originalRAM": "23200",
+                "originalSize": "1648",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1680455222489682:133645"
+        }
+    },
+    "1680455222477531:133629": {
+        "IFileManager": {
+            "path": "Files/File_1680455222477531_133629.png"
+        }
+    },
+    "1680455222489682:133645": {
+        "IFileManager": {
+            "path": "Files/File_1680455222489682_133645.png"
+        }
+    },
+    "1680455222494676:133646": {
+        "IResourceController": {
+            "public": {
+                "path": "UI/Resources/Textures/Color Picker/palette_background.png",
+                "hash": "a7af41c3d3ea2cd8900794d4ebbbe9c2"
+            }
+        }
+    },
+    "1680455223930488:135649": {
+        "IFileManager": {
+            "path": "Files/File_1680455223930488_135649.pvr"
+        }
+    }
+}

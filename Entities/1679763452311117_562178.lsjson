@@ -1,0 +1,39 @@
+{
+    "1679763452307771:562177": {
+        "IFileManager": {
+            "path": "Files/File_1679763452307771_562177"
+        }
+    },
+    "1679763452311117:562178": {
+        "IResourceController": {
+            "name": "label",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1679763452311145:562179",
+            "fileId": "1679763452307771:562177",
+            "originalId": "1679763452351748:562188",
+            "publicId": "1679763455150580:563782",
+            "expected_hash": "790aa3dd572e934352c33b922aa40c34"
+        },
+        "IResourceManager": {
+            "uid": "1679763452311145:562179",
+            "name": "Files/File_1679763452307771_562177",
+            "flags": 1
+        }
+    },
+    "1679763452351748:562188": {
+        "IFileManager": {
+            "path": "Files/File_1679763452351748_562188.lsmat"
+        }
+    },
+    "1679763455150580:563782": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/uploads_files_983690_PokerChips/Materials/label.lsmat",
+                "hash": "e6461745e239fc4435fdf55d7cbdbfe5"
+            }
+        }
+    }
+}

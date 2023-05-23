@@ -1,0 +1,39 @@
+{
+    "1678560989241764:1042297": {
+        "IResourceController": {
+            "name": "Card",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1678560989241453:1042259",
+            "fileId": "1678560989281725:1042355",
+            "originalId": "1678562616592860:1375711",
+            "publicId": "1678560989283685:1042356",
+            "expected_hash": "326a995c73730677c25190b06fa27fbe"
+        },
+        "IResourceManager": {
+            "uid": "1678560989241453:1042259",
+            "name": "Spades_A",
+            "flags": 0
+        }
+    },
+    "1678560989281725:1042355": {
+        "IFileManager": {
+            "path": "Files/File_1678560989281725_1042355.oprfb"
+        }
+    },
+    "1678560989283685:1042356": {
+        "IResourceController": {
+            "public": {
+                "path": "Card.oprfb",
+                "hash": "f6de424c236ad7149e99b0cc5f4585b6"
+            }
+        }
+    },
+    "1678562616592860:1375711": {
+        "IFileManager": {
+            "path": "Files/File_1678562616592860_1375711.oprfb"
+        }
+    }
+}
